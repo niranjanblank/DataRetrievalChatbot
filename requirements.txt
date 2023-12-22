@@ -2,3 +2,4 @@ InstructorEmbedding
 sentence_transformers
 faiss-cpu
 tiktoken
+huggingface_hub

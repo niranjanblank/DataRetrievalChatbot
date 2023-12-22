@@ -1,0 +1,4 @@
+InstructorEmbedding
+sentence_transformers
+faiss-cpu
+tiktoken

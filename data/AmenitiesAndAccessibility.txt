@@ -1,0 +1,8 @@
+Q: Is there parking available?
+A: Yes, we have a parking lot available for customers. Additionally, there's street parking nearby.
+
+Q: Is outdoor seating available?
+A: Yes, we have an outdoor seating area. Please note availability may vary depending on the weather.
+
+Q: Are pets allowed in the restaurant?
+A: Service animals are always welcome. Pets are allowed in our outdoor seating area.

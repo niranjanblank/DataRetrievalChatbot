@@ -1,0 +1,8 @@
+Q: Do you offer takeout or delivery?
+A: Yes, we offer both takeout and delivery services. You can order directly from our website or through popular food delivery apps.
+
+Q: Can I modify my order after placing it?
+A: If you need to modify your order, please let us know as soon as possible, and we'll do our best to accommodate.
+
+Q: Are there any specials or happy hour?
+A: Yes, we have daily specials and a happy hour from 4 PM to 6 PM. Please check our website or call us for today's specials.

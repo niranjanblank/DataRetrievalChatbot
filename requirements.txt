@@ -1,5 +1,9 @@
-InstructorEmbedding
-sentence_transformers
-faiss-cpu
-tiktoken
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+tiktoken==0.5.2
 huggingface_hub
+streamlit==1.29.0
+python-dotenv
+langchain==0.0.352
+openai==1.6.0

@@ -1,5 +1,5 @@
 Q: Can I make a reservation?
-A: Absolutely! You can make a reservation by calling us directly at 555-123-4567 or through our website at www.examplewebsite.com.
+A: Absolutely! You can make a reservation by calling us directly at 555-123-4567 or through our website at www.examplewebsite.com. You cannot make reservations through this chatbot.
 
 Q: How long is the wait for a table?
 A: Wait times vary. We recommend making a reservation or calling ahead to inquire about current wait times, especially during peak hours.
